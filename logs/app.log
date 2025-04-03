@@ -1,0 +1,9 @@
+2025-04-03 08:05:37.175 | INFO     | src.ai_model:get_nutrition_info:67 - Fetched Nutrition Data for banana
+2025-04-03 08:06:28.599 | ERROR    | src.ai_model:build_food_index:31 - Error building index: unstructured package not found, please install it with `pip install unstructured`
+2025-04-03 08:07:22.278 | ERROR    | src.ai_model:build_food_index:31 - Error building index: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-03 08:14:00.531 | ERROR    | src.ai_model:build_food_index:31 - Error building index: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-04-03 08:14:36.073 | INFO     | src.ai_model:build_food_index:28 - Food Knowledge index built successfully
+2025-04-03 08:14:37.952 | INFO     | src.ai_model:query_nutrition_knowledge:51 - Query Executed: Which fruits are rich in vitamin B12
+2025-04-03 08:17:43.805 | INFO     | src.ai_model:get_nutrition_info:67 - Fetched Nutrition Data for Almonds
+2025-04-03 08:18:36.836 | INFO     | src.ai_model:build_food_index:28 - Food Knowledge index built successfully
+2025-04-03 08:18:39.938 | INFO     | src.ai_model:query_nutrition_knowledge:51 - Query Executed: What are best sources for Vitamin B12

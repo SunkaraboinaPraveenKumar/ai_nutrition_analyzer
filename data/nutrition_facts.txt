@@ -1,0 +1,21 @@
+1. Apple - Calories: 95, Carbs: 25g, Fiber: 4g, Protein: 0.5g, Vitamins: C, B6, Minerals: Potassium
+2. Banana - Calories: 105, Carbs: 27g, Fiber: 3g, Protein: 1.3g, Vitamins: B6, C, Minerals: Potassium, Magnesium
+3. Carrot - Calories: 41, Carbs: 10g, Fiber: 2.8g, Protein: 0.9g, Vitamins: A, K, Minerals: Potassium
+4. Chicken Breast - Calories: 165, Carbs: 0g, Fiber: 0g, Protein: 31g, Vitamins: B6, B12, Minerals: Phosphorus, Selenium
+5. Almonds - Calories: 579, Carbs: 22g, Fiber: 12g, Protein: 21g, Vitamins: E, B2, Minerals: Magnesium, Calcium
+6. Broccoli - Calories: 55, Carbs: 11g, Fiber: 5g, Protein: 4g, Vitamins: C, K, A, Minerals: Calcium, Iron
+7. Salmon - Calories: 206, Carbs: 0g, Fiber: 0g, Protein: 22g, Vitamins: B12, D, Minerals: Selenium, Omega-3
+8. Oats - Calories: 154, Carbs: 27g, Fiber: 4g, Protein: 5g, Vitamins: B1, B5, Minerals: Magnesium, Iron
+9. Avocado - Calories: 234, Carbs: 12g, Fiber: 10g, Protein: 3g, Vitamins: K, E, C, B6, Minerals: Potassium, Magnesium
+10. Egg - Calories: 78, Carbs: 1g, Fiber: 0g, Protein: 6g, Vitamins: B12, D, Minerals: Iron, Phosphorus
+11. Sweet Potato - Calories: 103, Carbs: 24g, Fiber: 4g, Protein: 2g, Vitamins: A, C, Minerals: Potassium, Manganese
+12. Spinach - Calories: 23, Carbs: 3.6g, Fiber: 2.2g, Protein: 2.9g, Vitamins: A, C, K, Minerals: Iron, Calcium
+13. Greek Yogurt - Calories: 100, Carbs: 6g, Fiber: 0g, Protein: 10g, Vitamins: B12, B2, Minerals: Calcium, Phosphorus
+14. Brown Rice - Calories: 215, Carbs: 45g, Fiber: 3.5g, Protein: 5g, Vitamins: B1, B3, Minerals: Magnesium, Phosphorus
+15. Walnuts - Calories: 654, Carbs: 14g, Fiber: 7g, Protein: 15g, Vitamins: B6, E, Minerals: Omega-3, Magnesium
+16. Tofu - Calories: 144, Carbs: 3.9g, Fiber: 2.3g, Protein: 15g, Vitamins: B1, B6, Minerals: Calcium, Iron
+17. Lentils - Calories: 230, Carbs: 40g, Fiber: 16g, Protein: 18g, Vitamins: B6, Folate, Minerals: Iron, Magnesium
+18. Cottage Cheese - Calories: 98, Carbs: 3.4g, Fiber: 0g, Protein: 11g, Vitamins: B12, B2, Minerals: Calcium, Phosphorus
+19. Chia Seeds - Calories: 486, Carbs: 42g, Fiber: 34g, Protein: 16g, Vitamins: B1, B3, Minerals: Calcium, Magnesium, Omega-3
+20. Dark Chocolate (85%) - Calories: 598, Carbs: 46g, Fiber: 11g, Protein: 7.8g, Vitamins: B2, B3, Minerals: Iron, Magnesium
+
